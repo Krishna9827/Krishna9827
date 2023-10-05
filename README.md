@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishna9827
+- 👋 Hi, I’m @Krishna
 - 👀 I’m interested in IOT and automation projects.
 - 🌱 I’m currently learning about both IOT and automation ,bcz acc. to me learning never stops .
 - 💞️ I’m looking to collaborate on these types of projects only
